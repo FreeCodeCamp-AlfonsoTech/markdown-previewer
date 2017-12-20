@@ -1,0 +1,25 @@
+.App {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  text-align: center;
+}
+#markdown, #preview {
+  word-wrap: break-word;
+}
+#preview {
+  max-width: 50%;
+}
+#preview div {
+  border: 1px dotted #fff;
+
+}
+.preview {
+  text-align: left;
+  width: 300px;
+  padding: 0 20px;
+}
+#markdown textarea {
+  width: 300px;
+}
