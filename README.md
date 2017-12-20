@@ -14,7 +14,7 @@ Set your remote upstream to the original repo.
 
 ## Built With
 
-* [Create React App](https://github.com/facebookincubator/create-react-app).
+* [create-react-app](https://github.com/facebookincubator/create-react-app)
 * [marked](https://www.npmjs.com/package/marked) - A full-featured markdown parser and compiler, written in JavaScript. Built for speed.
 
 
