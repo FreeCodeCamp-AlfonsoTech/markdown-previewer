@@ -1,3 +1,32 @@
+# Mardown Previewer
+
+This Mardown Previewer allows you to type git flavored mark-down in a text area and preview the results in another section live in real-time. A project built for the FreeCodeCamp's Backend Web Developer Certificate.
+
+
+## Getting Started
+
+Fork the markdown-previewer repo.
+
+Clone your forked repo.
+
+Set your remote upstream to the original repo.
+
+
+## Built With
+
+* [create-react-app](https://github.com/facebookincubator/create-react-app)
+* [marked](https://www.npmjs.com/package/marked) - A full-featured markdown parser and compiler, written in JavaScript. Built for speed.
+
+
+## Author
+
+[Rita Alfonso](https://github.com/alfonsotech)
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 
@@ -6,7 +35,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 After creation, your project should look like this:
 
 ```
-my-app/
+markdown-previewer/
   README.md
   node_modules/
   package.json
