@@ -1,3 +1,32 @@
+# Mardown Previewer
+
+A project build for the FreeCodeCamp Backend Web Developer Certificate.
+
+
+## Getting Started
+
+Fork the markdown_previewer repo.
+
+Clone your forked repo.
+
+Set your remote upstream to the original repo.
+
+
+## Built With
+
+* [Create React App](https://github.com/facebookincubator/create-react-app).
+* [marked](https://www.npmjs.com/package/marked) - A full-featured markdown parser and compiler, written in JavaScript. Built for speed.
+
+
+## Author
+
+[Rita Alfonso](https://github.com/alfonsotech)
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 
