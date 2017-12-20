@@ -1,12 +1,13 @@
 .App {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: center;
   flex-wrap: wrap;
   text-align: center;
 }
 #markdown, #preview {
   word-wrap: break-word;
+  margin: 40px;
 }
 #preview {
   max-width: 50%;
