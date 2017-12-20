@@ -1,6 +1,6 @@
 # Mardown Previewer
 
-A project build for the FreeCodeCamp Backend Web Developer Certificate.
+A project built for the FreeCodeCamp's Backend Web Developer Certificate.
 
 
 ## Getting Started
