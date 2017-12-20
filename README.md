@@ -5,7 +5,7 @@ This Mardown Previewer allows you to type git flavored mark-down in a text area 
 
 ## Getting Started
 
-Fork the markdown_previewer repo.
+Fork the markdown-previewer repo.
 
 Clone your forked repo.
 
