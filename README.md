@@ -1,6 +1,6 @@
 # Mardown Previewer
 
-A project built for the FreeCodeCamp's Backend Web Developer Certificate.
+This Mardown Previewer allows you to type git flavored mark-down in a text area and preview the results in another section live in real-time. A project built for the FreeCodeCamp's Backend Web Developer Certificate.
 
 
 ## Getting Started
